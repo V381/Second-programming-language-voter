@@ -1,0 +1,61 @@
+{
+    "icons" : [
+        {
+            "iconCode" : "bitIcon-c-sq",
+            "iconName" : "C"
+        },
+        {
+            "iconCode" : "bitIcon-cpp-sq",
+            "iconName" : "C++"
+        },
+        {
+            "iconCode" : "bitIcon-cs-sq",
+            "iconName" : "C#"
+        },
+        {
+            "iconCode" : "devicon-go-plain colored",
+            "iconName" : "Go"
+        },
+        {
+            "iconCode" : "bitIcon-haskell-sq",
+            "iconName" : "Haskell"
+        },
+        {
+            "iconCode" : "bitIcon-java-alt-sq",
+            "iconName" : "Java"
+        },
+        {
+            "iconCode" : "bitIcon-js-sq",
+            "iconName" : "JavaScript"
+        },
+        {
+            "iconCode" : "bitIcon-objc-sq",
+            "iconName" : "Objective C"
+        },
+        {
+            "iconCode" : "bitIcon-perl-sq",
+            "iconName" : "Perl"
+        },
+        {
+            "iconCode" : "bitIcon-php-sq",
+            "iconName" : "Php"
+        },
+        {
+            "iconCode" : "bitIcon-python-sq",
+            "iconName" : "Python"
+        },
+        {
+            "iconCode" : "bitIcon-ruby-sq",
+            "iconName" : "Ruby"
+        },
+        {
+            "iconCode" : "bitIcon-scala-sq",
+            "iconName" : "Scala"
+        },
+        {
+            "iconCode" : "bitIcon-swift-sq",
+            "iconName" : "Swift"
+        }
+
+    ]
+}
