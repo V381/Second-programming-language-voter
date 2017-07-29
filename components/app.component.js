@@ -6,13 +6,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 var core_1 = require('@angular/core');
-var getIcons_service_1 = require("../services/getIcons.service");
 var saveScore_service_1 = require("../services/saveScore.service");
 var MainIcons = (function () {
-    function MainIcons(getIcons, saveScore, getIconsScores) {
-        this.getIcons = getIcons;
+    function MainIcons(saveScore, getIconsScores, http) {
         this.saveScore = saveScore;
         this.getIconsScores = getIconsScores;
+        this.http = http;
         this.numberOfUsers = 142;
         this.icons = [];
         this.iconSelected = false;
@@ -24,11 +23,10 @@ var MainIcons = (function () {
     }
     MainIcons.prototype.ngOnInit = function () {
         var _this = this;
-        this.getIcons.getIcons('/icons').subscribe(function (result) {
-            for (var i in result) {
-                for (var j = 0; j < result[i].length; j++) {
-                    _this.icons.push(result[i][j]);
-                }
+        this.http.get('/icons').subscribe(function (result) {
+            var res = JSON.parse(result._body);
+            for (var i = 0; i < res.icons.length; i++) {
+                _this.icons.push(res.icons[i]);
             }
         });
         this.disabledButtonIndex = -1;
@@ -149,7 +147,7 @@ var MainIcons = (function () {
         core_1.Component({
             selector: 'main-icons',
             templateUrl: "components/icons.html",
-            providers: [getIcons_service_1.GetIcons, saveScore_service_1.SaveScore]
+            providers: [saveScore_service_1.SaveScore]
         })
     ], MainIcons);
     return MainIcons;
