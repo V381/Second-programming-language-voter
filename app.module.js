@@ -9,7 +9,6 @@ var core_1 = require('@angular/core');
 var platform_browser_1 = require('@angular/platform-browser');
 var http_1 = require('@angular/http');
 var app_component_1 = require('./components/app.component');
-var getIcons_service_1 = require("./services/getIcons.service");
 var saveScore_service_1 = require("./services/saveScore.service");
 var getIconsScores_service_1 = require("./services/getIconsScores.service");
 var forms_1 = require('@angular/forms');
@@ -19,7 +18,7 @@ var AppModule = (function () {
     AppModule = __decorate([
         core_1.NgModule({
             imports: [platform_browser_1.BrowserModule, http_1.HttpModule, forms_1.FormsModule],
-            providers: [getIcons_service_1.GetIcons, saveScore_service_1.SaveScore, getIconsScores_service_1.GetIconsScores, http_1.HttpModule],
+            providers: [saveScore_service_1.SaveScore, getIconsScores_service_1.GetIconsScores, http_1.HttpModule],
             declarations: [app_component_1.MainIcons],
             bootstrap: [app_component_1.MainIcons]
         })
