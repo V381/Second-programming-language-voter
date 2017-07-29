@@ -1,4 +1,9 @@
 {
+  "name": "Second_programming_language_voter",
+  "version": "1.0.0",
+  "scripts": {
+    "start" : "node server/app.js"
+  },
   "dependencies": {
     "@angular/common": "^2.2.3",
     "@angular/compiler": "^2.2.3",
