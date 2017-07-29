@@ -1,0 +1,47 @@
+@import './partials/_icons';
+@import './partials/header';
+@import './partials/buttons';
+
+.container{
+    h1{
+        text-align: center;
+    }
+}
+
+
+.icon-wrapper{
+    ul{
+        li{
+            width: 20%;
+            display: inline-block;
+            text-align: center;
+            transition: 0.5s ease-in-out;
+            &:hover{
+                cursor: pointer;
+                color: darkred;
+                transition: 0.5s ease-in-out;
+            }
+            &:active{
+                color: darkred;
+            }
+            i{
+                font-size: 10em;
+            }
+        }
+    }
+    .colored{
+        transition: 0.5s ease-in-out;
+        &:hover{
+            cursor: pointer;
+            color: darkred;
+            transition: 0.5s ease-in-out;
+        }
+    }
+}
+
+.isActive{
+    color: darkred !important;
+    i{
+        color: darkred !important;
+    }
+}

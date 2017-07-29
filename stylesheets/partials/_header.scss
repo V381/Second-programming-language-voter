@@ -1,0 +1,16 @@
+header{
+  background: #191919;
+  box-shadow: 2px 2px 2px #464646;
+  width: 100%;
+  margin: 0;
+  h1{
+    margin: 0;
+    padding: 20px;
+    font-size: 2.5em;
+    text-align: center;
+    color: #ffffff;
+    &:first-letter{
+      color: red;
+    }
+  }
+}
