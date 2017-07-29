@@ -1,13 +1,14 @@
 import { Component } from '@angular/core';
-import { GetIcons } from "../services/getIcons.service";
 import { SaveScore } from "../services/saveScore.service";
 import { GetIconsScores } from "../services/getIconsScores.service";
 import { Observer } from 'rxjs/Observer';
+import { Injectable } from '@angular/core';
+import { Http, Response } from "@angular/http";
 
 @Component({
 	selector: 'main-icons',
 	templateUrl : "components/icons.html",
-	providers : [GetIcons, SaveScore]
+	providers : [SaveScore]
 })
 
 export class MainIcons {
@@ -23,16 +24,16 @@ export class MainIcons {
 	disabledButtons : number = [];
 
 
-	constructor (private getIcons: GetIcons, private saveScore : SaveScore, private getIconsScores : GetIconsScores) {
+	constructor (private saveScore : SaveScore, private getIconsScores : GetIconsScores, private http: Http) {
 
 	}
 
 	ngOnInit(){
-		this.getIcons.getIcons('/icons').subscribe(result => {
-			for(let i in result){
-				for(let j = 0; j < result[i].length; j++){
-					this.icons.push(result[i][j]);
-				}
+
+		this.http.get('/icons').subscribe(result => {
+			let res = JSON.parse(result._body);
+			for(let i = 0; i < res.icons.length; i++){
+				this.icons.push(res.icons[i]);
 			}
 		});
 		this.disabledButtonIndex = -1;
