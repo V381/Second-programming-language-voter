@@ -5,8 +5,9 @@ const path = require('path');
 const app = express();
 const bodyParser = require('body-parser');
 const jsonUpdate = require('json-update');
+const server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
 
-app.set('port', process.env.PORT || 3000);
+app.set('port',  process.env.OPENSHIFT_NODEJS_PORT || 3000);
 app.use(express.static(path.join(__dirname + '/../')));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -39,4 +40,4 @@ app.get('/icons_score', (req, res) => {
     res.json(JSON.parse(data));
 });
 
-app.listen(app.get('port'));
+app.listen(app.get('port'), server_ip_address);
