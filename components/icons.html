@@ -1,0 +1,37 @@
+<div class="icon-wrapper col-md-12">
+    <ul>
+        <li *ngFor="let icon of icons; let i=index" (click)="showProgrammingLanguages(i)" 
+         [ngClass]="{'isActive': selectedIndex == i}" (click)="showProgrammingLanguageIcons(icon.iconName)">
+            <i class="{{icon.iconCode}}" [ngClass]="{'isActive': selectedIndex == i}"></i>
+            <h3>{{icon.iconName}}</h3>
+        </li>
+    </ul>
+
+
+    <section *ngIf="iconSelected">
+        
+        <h1>You selected <strong>{{selectedIconName}}</strong>. Vote for second language you think person should learn after <strong>{{selectedIconName}}</strong></h1> 
+        
+        <div class="icon-wrapper col-md-12">
+            <ul>
+                <li *ngFor="let languageToVote of programmingLanguagesToVote; let i=index">
+                    <i class="{{languageToVote.iconCode}}"></i>
+                    <h3>{{languageToVote.iconName}}</h3>
+                    <form>
+                        <label>
+                            <input class="icon-wrapper__buttons--positive btn-success" type="button" (click)="increaseScore(languageToVote.iconName)" [(ngModel)]="languageToVote.value.positive" name="positiveScore-{{i}}" value="{{languageToVote.value.positive}}" >
+                        </label>
+                        <label>
+                            <input class="icon-wrapper__buttons--negative btn-danger" 
+                             (click)="buttonDisabled($event, i)" type="button" (click)="decreaseScore(languageToVote.iconName)" 
+                            [(ngModel)]="languageToVote.value.negative" name="negativeScore-{{i}}"value="{{languageToVote.value.negative}}">
+                        </label>
+                    </form>
+                </li>
+            </ul>
+        </div>
+    
+    </section>
+
+
+</div>
