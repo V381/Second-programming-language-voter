@@ -19,7 +19,7 @@
                     <h3>{{languageToVote.iconName}}</h3>
                     <form>
                         <label>
-                            <input class="icon-wrapper__buttons--positive btn-success" type="button" (click)="increaseScore(languageToVote.iconName)" [(ngModel)]="languageToVote.value.positive" name="positiveScore-{{i}}" value="{{languageToVote.value.positive}}" >
+                            <input class="icon-wrapper__buttons--positive btn-success" type="button" (click)="increaseScore(languageToVote.iconName)" (click)="buttonDisabled($event, i)" [(ngModel)]="languageToVote.value.positive" name="positiveScore-{{i}}" value="{{languageToVote.value.positive}}" >
                         </label>
                         <label>
                             <input class="icon-wrapper__buttons--negative btn-danger" 
