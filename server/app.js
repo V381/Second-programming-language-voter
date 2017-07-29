@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/icons', (req, res) => {
-    let data = fs.readFileSync("../icons.json");
+    let data = fs.readFileSync("./icons.json");
     res.json(JSON.parse(data));
 });
 
