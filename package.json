@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@angular/common": "^2.2.3",
+    "@angular/compiler": "^2.2.3",
+    "@angular/core": "^2.2.3",
+    "@angular/platform-browser": "^2.2.3",
+    "@angular/platform-browser-dynamic": "^2.2.3",
+    "body-parser": "^1.17.2",
+    "http-server": "^0.9.0",
+    "json-update": "^3.0.0",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.0-rc.4",
+    "systemjs": "^0.19.41",
+    "zone.js": "^0.7.2"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.34"
+  }
+}
