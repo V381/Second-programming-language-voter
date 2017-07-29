@@ -652,6 +652,14 @@
             "negative":0
          }
       },
+      {
+      	"iconCode": "cbp-ig-icon devicon-coffeescript-original",
+      	"iconName" : "CoffeeScript",
+      	"value": {
+      		"positive" : 0,
+      		"negative" : 0
+      	}
+      },
       {  
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
@@ -729,6 +737,14 @@
          "iconName":"Swift",
          "value":{  
             "positive":0,
+            "negative":0
+         }
+      },
+      {  
+         "iconCode":"cbp-ig-icon devicon-typescript-plain",
+         "iconName":"TypeScript",
+         "value":{  
+            "positive":1,
             "negative":0
          }
       }
