@@ -89,20 +89,15 @@ var MainIcons = (function () {
             _this.iconsData = JSON.parse(result._body);
         });
         if (iconName === "C") {
-            // this.iconSelected = true;
-            // this.programmingLanguagesToVote = [];
-            // setTimeout(() => {
-            // 	let iconsArrayData = this.iconsData[iconName];
-            // 	for(let i = 0; i < iconsArrayData.length; i++){
-            // 		this.programmingLanguagesToVote.push(iconsArrayData[i])
-            // 	}
-            // }, 500)
             this.showCorrectIconsBasedOnSelectedLanguage(iconName);
         }
         else if (iconName === "C++") {
             this.showCorrectIconsBasedOnSelectedLanguage(iconName);
         }
         else if (iconName === "C#") {
+            this.showCorrectIconsBasedOnSelectedLanguage(iconName);
+        }
+        else if (iconName === "Clojure") {
             this.showCorrectIconsBasedOnSelectedLanguage(iconName);
         }
         else if (iconName === "Go") {
