@@ -1,1483 +1,1709 @@
-{  
-   "C":[  
-      {  
+{
+   "C":[
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"devicon-go-plain colored",
-         "iconName":"Go",
-         "value":{  
-            "positive":1,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-haskell-sq",
-         "iconName":"Haskell",
-         "value":{  
-            "positive":2,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-java-alt-sq",
-         "iconName":"Java",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-js-sq",
-         "iconName":"JavaScript",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-objc-sq",
-         "iconName":"Objective C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-perl-sq",
-         "iconName":"Perl",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-php-sq",
-         "iconName":"Php",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-python-sq",
-         "iconName":"Python",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-ruby-sq",
-         "iconName":"Ruby",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-scala-sq",
-         "iconName":"Scala",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-swift-sq",
-         "iconName":"Swift",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      }
-   ],
-   "C++":[  
-      {  
-         "iconCode":"bitIcon-cs-sq",
-         "iconName":"C#",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"devicon-go-plain colored",
-         "iconName":"Go",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-haskell-sq",
-         "iconName":"Haskell",
-         "value":{  
-            "positive":1,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-java-alt-sq",
-         "iconName":"Java",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-js-sq",
-         "iconName":"JavaScript",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-objc-sq",
-         "iconName":"Objective C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-perl-sq",
-         "iconName":"Perl",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-php-sq",
-         "iconName":"Php",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-python-sq",
-         "iconName":"Python",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-ruby-sq",
-         "iconName":"Ruby",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-scala-sq",
-         "iconName":"Scala",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-swift-sq",
-         "iconName":"Swift",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      }
-   ],
-   "C#":[  
-      {  
-         "iconCode":"bitIcon-c-sq",
-         "iconName":"C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cpp-sq",
-         "iconName":"C++",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"devicon-go-plain colored",
-         "iconName":"Go",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-haskell-sq",
-         "iconName":"Haskell",
-         "value":{  
-            "positive":1,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-java-alt-sq",
-         "iconName":"Java",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-js-sq",
-         "iconName":"JavaScript",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-objc-sq",
-         "iconName":"Objective C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-perl-sq",
-         "iconName":"Perl",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-php-sq",
-         "iconName":"Php",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-python-sq",
-         "iconName":"Python",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-ruby-sq",
-         "iconName":"Ruby",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-scala-sq",
-         "iconName":"Scala",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-swift-sq",
-         "iconName":"Swift",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      }
-   ],
-   "Go":[  
-      {  
-         "iconCode":"bitIcon-c-sq",
-         "iconName":"C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cpp-sq",
-         "iconName":"C++",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cs-sq",
-         "iconName":"C#",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-haskell-sq",
-         "iconName":"Haskell",
-         "value":{  
-            "positive":1,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-java-alt-sq",
-         "iconName":"Java",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-js-sq",
-         "iconName":"JavaScript",
-         "value":{  
-            "positive":3,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-objc-sq",
-         "iconName":"Objective C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-perl-sq",
-         "iconName":"Perl",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-php-sq",
-         "iconName":"Php",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-python-sq",
-         "iconName":"Python",
-         "value":{  
-            "positive":1,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-ruby-sq",
-         "iconName":"Ruby",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-scala-sq",
-         "iconName":"Scala",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-swift-sq",
-         "iconName":"Swift",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      }
-   ],
-   "Haskell":[  
-      {  
-         "iconCode":"bitIcon-c-sq",
-         "iconName":"C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cpp-sq",
-         "iconName":"C++",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cs-sq",
-         "iconName":"C#",
-         "value":{  
-            "positive":1,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"devicon-go-plain colored",
-         "iconName":"Go",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-java-alt-sq",
-         "iconName":"Java",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-js-sq",
-         "iconName":"JavaScript",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-objc-sq",
-         "iconName":"Objective C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-perl-sq",
-         "iconName":"Perl",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-php-sq",
-         "iconName":"Php",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-python-sq",
-         "iconName":"Python",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-ruby-sq",
-         "iconName":"Ruby",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-scala-sq",
-         "iconName":"Scala",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-swift-sq",
-         "iconName":"Swift",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      }
-   ],
-   "Java":[  
-      {  
-         "iconCode":"bitIcon-c-sq",
-         "iconName":"C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cpp-sq",
-         "iconName":"C++",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cs-sq",
-         "iconName":"C#",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"devicon-go-plain colored",
-         "iconName":"Go",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-haskell-sq",
-         "iconName":"Haskell",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-js-sq",
-         "iconName":"JavaScript",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-objc-sq",
-         "iconName":"Objective C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-perl-sq",
-         "iconName":"Perl",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-php-sq",
-         "iconName":"Php",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-python-sq",
-         "iconName":"Python",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-ruby-sq",
-         "iconName":"Ruby",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-scala-sq",
-         "iconName":"Scala",
-         "value":{  
-            "positive":3,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-swift-sq",
-         "iconName":"Swift",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      }
-   ],
-   "JavaScript":[  
-      {  
-         "iconCode":"bitIcon-c-sq",
-         "iconName":"C",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cpp-sq",
-         "iconName":"C++",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-cs-sq",
-         "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
       {
-      	"iconCode": "cbp-ig-icon devicon-coffeescript-original",
-      	"iconName" : "CoffeeScript",
-      	"value": {
-      		"positive" : 0,
-      		"negative" : 0
-      	}
-      },
-      {  
-         "iconCode":"devicon-go-plain colored",
-         "iconName":"Go",
-         "value":{  
-            "positive":0,
-            "negative":0
-         }
-      },
-      {  
-         "iconCode":"bitIcon-haskell-sq",
-         "iconName":"Haskell",
-         "value":{  
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":2,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "C++":[
+      {
+         "iconCode":"bitIcon-cs-sq",
+         "iconName":"C#",
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-java-alt-sq",
+         "iconName":"Java",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "C#":[
+      {
+         "iconCode":"bitIcon-c-sq",
+         "iconName":"C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cpp-sq",
+         "iconName":"C++",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-java-alt-sq",
+         "iconName":"Java",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "Clojure":[
+      {
+         "iconCode":"bitIcon-c-sq",
+         "iconName":"C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cpp-sq",
+         "iconName":"C++",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cs-sq",
+         "iconName":"C#",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-java-alt-sq",
+         "iconName":"Java",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "Go":[
+      {
+         "iconCode":"bitIcon-c-sq",
+         "iconName":"C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cpp-sq",
+         "iconName":"C++",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cs-sq",
+         "iconName":"C#",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-java-alt-sq",
+         "iconName":"Java",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":3,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "Haskell":[
+      {
+         "iconCode":"bitIcon-c-sq",
+         "iconName":"C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cpp-sq",
+         "iconName":"C++",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cs-sq",
+         "iconName":"C#",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-java-alt-sq",
+         "iconName":"Java",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "Java":[
+      {
+         "iconCode":"bitIcon-c-sq",
+         "iconName":"C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cpp-sq",
+         "iconName":"C++",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cs-sq",
+         "iconName":"C#",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-js-sq",
+         "iconName":"JavaScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":3,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      }
+   ],
+   "JavaScript":[
+      {
+         "iconCode":"bitIcon-c-sq",
+         "iconName":"C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cpp-sq",
+         "iconName":"C++",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-cs-sq",
+         "iconName":"C#",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"cbp-ig-icon devicon-coffeescript-original",
+         "iconName":"CoffeeScript",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"devicon-go-plain colored",
+         "iconName":"Go",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-haskell-sq",
+         "iconName":"Haskell",
+         "value":{
+            "positive":1,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-java-alt-sq",
+         "iconName":"Java",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-objc-sq",
+         "iconName":"Objective C",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-perl-sq",
+         "iconName":"Perl",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-php-sq",
+         "iconName":"Php",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-python-sq",
+         "iconName":"Python",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-ruby-sq",
+         "iconName":"Ruby",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-scala-sq",
+         "iconName":"Scala",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
+         "iconCode":"bitIcon-swift-sq",
+         "iconName":"Swift",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"cbp-ig-icon devicon-typescript-plain",
          "iconName":"TypeScript",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       }
    ],
-   "Objective C":[  
-      {  
+   "Objective C":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       }
    ],
-   "Perl":[  
-      {  
+   "Perl":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       }
    ],
-   "Php":[  
-      {  
+   "Php":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       }
    ],
-   "Python":[  
-      {  
+   "Python":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       }
    ],
-   "Ruby":[  
-      {  
+   "Ruby":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       }
    ],
-   "Scala":[  
-      {  
+   "Scala":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-swift-sq",
          "iconName":"Swift",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       }
    ],
-   "Swift":[  
-      {  
+   "Swift":[
+      {
          "iconCode":"bitIcon-c-sq",
          "iconName":"C",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cpp-sq",
          "iconName":"C++",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-cs-sq",
          "iconName":"C#",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
+         "iconCode":"icon-clojure clojureIcn",
+         "iconName":"Clojure",
+         "value":{
+            "positive":0,
+            "negative":0
+         }
+      },
+      {
          "iconCode":"devicon-go-plain colored",
          "iconName":"Go",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-haskell-sq",
          "iconName":"Haskell",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-java-alt-sq",
          "iconName":"Java",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-js-sq",
          "iconName":"JavaScript",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-objc-sq",
          "iconName":"Objective C",
-         "value":{  
+         "value":{
             "positive":1,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-perl-sq",
          "iconName":"Perl",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-php-sq",
          "iconName":"Php",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-python-sq",
          "iconName":"Python",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-ruby-sq",
          "iconName":"Ruby",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
       },
-      {  
+      {
          "iconCode":"bitIcon-scala-sq",
          "iconName":"Scala",
-         "value":{  
+         "value":{
             "positive":0,
             "negative":0
          }
