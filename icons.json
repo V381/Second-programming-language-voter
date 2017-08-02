@@ -13,6 +13,10 @@
             "iconName" : "C#"
         },
         {
+            "iconCode" : "icon-clojure clojureIcn",
+            "iconName" : "Clojure"
+        },
+        {
             "iconCode" : "devicon-go-plain colored",
             "iconName" : "Go"
         },
