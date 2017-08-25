@@ -79,7 +79,7 @@ var MainIcons = (function () {
             for (var i = 0; i < iconsArrayData.length; i++) {
                 _this.programmingLanguagesToVote.push(iconsArrayData[i]);
             }
-        }, 500);
+        }, 2000);
     };
     MainIcons.prototype.showProgrammingLanguageIcons = function (iconName) {
         var _this = this;
