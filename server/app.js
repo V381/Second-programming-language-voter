@@ -5,7 +5,7 @@ const path = require('path');
 const app = express();
 const bodyParser = require('body-parser');
 const jsonUpdate = require('json-update');
-const server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0';
+const server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
 
 app.set('port',  process.env.OPENSHIFT_NODEJS_PORT || 8080);
 app.use(express.static(path.join(__dirname + '/../')));
@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/icons', (req, res) => {
-    let data = fs.readFileSync("./icons.json");
+    let data = fs.readFileSync("../icons.json");
     res.json(JSON.parse(data));
 });
 
