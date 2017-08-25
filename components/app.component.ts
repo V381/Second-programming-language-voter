@@ -97,7 +97,7 @@ export class MainIcons {
 				for(let i = 0; i < iconsArrayData.length; i++){
 					this.programmingLanguagesToVote.push(iconsArrayData[i])
 				}
-			}, 500)
+			}, 2000)
 			
 	}
 
